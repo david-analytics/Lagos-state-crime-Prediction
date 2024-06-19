@@ -7,4 +7,4 @@ This project uses machine learning algorithms, to analyze and predict crime patt
 # Analysis Model Implementation
 
 
-![image]((Data Analysis/crime_pertern.png)
+![image](crime_pertern.png)
