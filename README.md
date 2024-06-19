@@ -4,7 +4,7 @@ As the commercial hub of Nigeria and West Africa, Lagos State has witnessed sign
 ![Lagos Nigeria](Lagos1.jpg)
 This project uses machine learning algorithms, to analyze and predict crime patterns within the region. it focuses on detecting, predicting, and elucidating crime patterns and hotspots across the Local Council Development Areas (LCDAs) within Lagos State. 
 
-# Analysis Model Implementation
+# Analysis and Model Implementation
 
 
-![image](crime_pertern.png)
+![crime_season](season.png) ![crime_time](time_of_day.png)
