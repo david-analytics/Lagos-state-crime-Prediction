@@ -14,11 +14,11 @@ and elucidating crime patterns and hotspots across the Local Council Development
 This project is based upon a comprehensive dataset source from the RRS (Rapid Response Squared) ledger spanning from December 2019 to 2022, 
 encompassing 1428 entries across 10 distinct crime attributes.
 
-![crime_season](season.png) ![crime_time](time_of_day.png) ![crime_locations](bar22.PNG)
+![crime_season](season.png) ![crime_time](time_of_day.png) 
 
-![crime_season](smote1.png) ![crime_time](smote2.png)
+![crime_locations](bar22.PNG) ![Result](bar222.PNG) 
 
-![Random forest Auc_score](auc.png) ![Xgb Auc score](auc_xgb.png) ![Result](bar222.PNG)
+![Random forest Auc_score](auc.png) ![Xgb Auc score](auc_xgb.png)
 
 
 # Conclusion
