@@ -12,7 +12,7 @@ This project is based upon a comprehensive dataset source from the RRS (Rapid Re
 
 ![crime_season](season.png) ![crime_time](time_of_day.png) ![crime_locations](bar22.png)
 
-![crime_season](smote1.png) ![crime_time](smote.png)
+![crime_season](smote1.png) ![crime_time](smote2.png)
 
 ![Random forest Auc_score](auc.png) ![Xgb Auc score](auc_xgb.png) ![Result](bar222.png)
 
